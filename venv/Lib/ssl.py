@@ -35,7 +35,7 @@ SSL_ERROR_WANT_CONNECT
 SSL_ERROR_EOF
 SSL_ERROR_INVALID_ERROR_CODE
 
-The following group define certificate requirements that one side is
+The following group define certificate requirements.txt that one side is
 allowing/requiring from the other side:
 
 CERT_NONE - no certificates from the other side are required (or will

@@ -345,7 +345,7 @@ class Random(_random.Random):
         # is dominated by _randbelow() and because it extracts the
         # least entropy from the underlying random number generators.
 
-        # Memory requirements are kept to the smaller of a k-length
+        # Memory requirements.txt are kept to the smaller of a k-length
         # set or an n-length list.
 
         # There are other sampling algorithms that do not require
