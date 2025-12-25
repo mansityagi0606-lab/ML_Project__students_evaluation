@@ -1,0 +1,19 @@
+venv/ 
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ML artifacts & logs
+artifacts/
+logs/
+
+# Jupyter notebooks (optional)
+notebook/
+
+# OS files
+.DS_Store
+.idea/
