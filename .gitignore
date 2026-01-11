@@ -4,15 +4,9 @@ venv/
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Virtual environment and logs
 venv/
-
-# ML artifacts & logs
-artifacts/
 logs/
-
-# Jupyter notebooks (optional)
-notebook/
 
 # OS files
 .DS_Store
