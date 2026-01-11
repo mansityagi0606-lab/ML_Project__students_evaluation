@@ -1,13 +1,26 @@
-venv/ 
+# Virtual Environments
+.venv/
+venv/
+*.env
+
+# MLflow
+mlflow.db
+mlruns/
+
+# Model artifacts
+artifacts/
+*.pkl
 
 # Python
 __pycache__/
 *.pyc
 
-# Virtual environment and logs
-venv/
+# Logs
 logs/
 
-# OS files
+# OS
 .DS_Store
-.idea/
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
