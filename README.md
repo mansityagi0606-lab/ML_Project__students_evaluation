@@ -26,16 +26,6 @@ AdaBoost
 
 Each model is logged as a separate MLflow run.
 
-🔹 Project Structure
-src/
-├── components/
-│   ├── data_ingestion.py
-│   ├── data_transformation.py
-│   └── model_trainer.py
-│
-├── pipeline/
-│   └── train_pipeline.py
-
 🔹 How to Run
 
 Activate environment:
